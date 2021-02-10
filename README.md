@@ -10,3 +10,7 @@ In this repository I will upload the work done in my journey to learn Reinforcem
 ## Dependencies
 A copy of ffmpeg that can be recognized by Anaconda might be needed. To install it, run `conda install -c conda-forge ffmpeg` in a terminal.
 As of February 10 2021 there is an issue with a gym file to record the video by Wrappers. It can be solved manually based on this [link](https://github.com/openai/gym/issues/1925).
+
+## Sample
+With RL an agent can play a game as the following:
+![](videos/sample.gif)

@@ -13,4 +13,4 @@ As of February 10 2021 there is an issue with a gym file to record the video by 
 
 ## Sample
 With RL an agent can play a game as the following:
-![](videos/sample.gif)
+![Cartpole Game](videos/sample.gif)
